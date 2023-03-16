@@ -1,6 +1,6 @@
 ---
 title: "About this site"
-peralink: "/about"
+permalink: "/about"
 ---
 # About this site
 
