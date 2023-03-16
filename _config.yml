@@ -1,0 +1,4 @@
+# this file sets configuration options for our jekyll website
+title: Jaron Belmore
+description: This is a web page about Jaron Belmore. 
+theme: jekyll-theme-minimal
