@@ -1,5 +1,5 @@
 ---
-title: Jaron Belmore
+title: "Jaron Belmore"
 peralink: "/about"
 ---
 # About this site
