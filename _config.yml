@@ -1,6 +1,8 @@
 # this file sets configuration options for our jekyll website
-title: Jaron Belmore
+title: Jaron Belmore's Personal Website
+author: Jaron Belmore
 description: This is a web page about Jaron Belmore. 
 theme: jekyll-theme-minimal
 
-[button text {_ext}](https://jabelm20.github.io/Jaron-Belmore/about)
+navbar-links:  
+  About me: "https://jabelm20.github.io/Jaron-Belmore/about"
