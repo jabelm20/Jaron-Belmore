@@ -2,3 +2,6 @@
 title: Jaron Belmore
 description: This is a web page about Jaron Belmore. 
 theme: jekyll-theme-minimal
+
+navbar-links:  
+  About me: "About"
